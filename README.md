@@ -22,6 +22,9 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anderson-santos-dev-front-back/)]( https://www.linkedin.com/in/anderson-santos-dev-front-back/)
 
+## Languages and Tools:
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
 - Thanks for visiting.
