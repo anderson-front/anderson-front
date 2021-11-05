@@ -20,7 +20,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/anderson-front)](https://github.com/anderson-front)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= https://www.linkedin.com/in/anderson-santos-dev-front-back/)]( https://www.linkedin.com/in/anderson-santos-dev-front-back/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anderson-santos-dev-front-back/)]( https://www.linkedin.com/in/anderson-santos-dev-front-back/)
 
 
 
